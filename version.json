@@ -1,5 +1,5 @@
 {
-  "version": "18.2",
+  "version": "18.3",
   "url": "https://raw.githubusercontent.com/goneflyin2002/StompPedalFirmware/main/releases/STOMP_Controller_v18.3.bin",
   "size": 1550208,
   "notes": "Dual pedal support, OTA updates, live mute polling, scene debounce fix, improved update security"
