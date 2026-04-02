@@ -1,6 +1,6 @@
 {
-  "version": "18.9",
-  "url": "https://raw.githubusercontent.com/goneflyin2002/StompPedalFirmware/main/releases/STOMP_Controller_v18.9.bin",
+  "version": "19.0",
+  "url": "https://raw.githubusercontent.com/goneflyin2002/StompPedalFirmware/main/releases/STOMP_Controller_v19.0.bin",
   "size": 1555280,
-  "notes": "Version 18.9 - X32 Tested, XR18 tested, WING DCA + mute group queryAndWait for instant pedal response. Mgrp/DCA zero-padding removed. FXRtn stereo pair labels (Fx1L/Fx1R...). BLE names timer gated by mixer type. Mixer info timer 3s. False reconnect fix. \n v18.5- DCA mute fix for X32/XR18. Main ST/M/LR names via BLE. X32 tap tempo time polling. \n v18.4- added X32 and XR18 scene control \n v18.3- live mute polling, scene debounce fix, improved update security \n v18.2- Dual pedal support, OTA updates."
+  "notes": "Version 19.0 - X32 Tested, XR18 tested, WING DCA + mute group queryAndWait for instant pedal response. Mgrp/DCA zero-padding removed. FXRtn stereo pair labels (Fx1L/Fx1R...). BLE names timer gated by mixer type. Mixer info timer 3s. False reconnect fix. \n v18.5- DCA mute fix for X32/XR18. Main ST/M/LR names via BLE. X32 tap tempo time polling. \n v18.4- added X32 and XR18 scene control \n v18.3- live mute polling, scene debounce fix, improved update security \n v18.2- Dual pedal support, OTA updates."
 }
